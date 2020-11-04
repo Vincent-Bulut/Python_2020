@@ -2,6 +2,7 @@
 import os
 #chemin = "/mnt/c/Users/vince/OneDrive/Bureau"
 #LastMinuteChange
+#AddLastMinuteChange
 chemin = "C:\\Users\\vince\\OneDrive\\Bureau"
 
 def afficherFic(lstRep, largeur):
